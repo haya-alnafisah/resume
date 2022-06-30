@@ -7,11 +7,14 @@ DevOps students in saudi Digital Academy
 
 ## Education
 Al Imam Muhammad Ibn Saud Islamic University Diploma of Computer Sciences(Programming)
+<br>
 Al Imam Muhammad Ibn Saud Islamic University Bachelor's Social Word
 
 ## Courses
--course of ios
+-course of ios 
+<br>
 -coures basice of python 
+<br>
 -coures of noor system
 
 
